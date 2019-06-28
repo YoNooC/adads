@@ -1,0 +1,47 @@
+{
+	"room": "Felpolandia",
+	"author": "YoNOc",
+	"icon": "https://edm-spot.github.io/icons/room.png",
+	"css": "https://yonooc.github.io/main.css",
+	"rules": {
+		"allowAutorespond": true,
+		"allowAutowoot": true,
+		"allowAutojoin": false,
+		"allowAutograb": true,
+		"allowSmartVote": true,
+		"allowEmotes": false,
+		"allowShowingMehs": false,
+		"forceSmartVote": false
+	},
+	"ccc": {
+		"admin": "#42A5DC",
+		"ambassador": "#89BE6C",
+		"host": "#f2cd3c",
+		"cohost": "#ffbd01",
+		"manager": "#CC3333",
+		"bouncer": "#04B486",
+		"rdj": "#33CCFF",
+		"subscriber": "#918676",
+		"friend": null,
+		"user": null
+	},
+	"images": {
+		"background": "https://d3us2i0tqwa7m7.cloudfront.net/pulses/13346640422010000/1427306404257_res_original.jpg",
+		"playback": "https://edm-spot.github.io/background/VideoGlow.png",
+		"admin": null,
+		"ambassador": null,
+		"host": "http://icons.iconarchive.com/icons/iconfactory/sketchcons/16/smiley-icon.png",
+		"cohost": "http://icons.iconarchive.com/icons/mag1cwind0w/o-sunny-day/16/osd-sun-icon.png",
+		"manager": "http://icons.iconarchive.com/icons/google/noto-emoji-smileys/16/10074-angry-face-icon.png",
+		"bouncer": "http://icons.iconarchive.com/icons/hopstarter/halloween-avatar/16/Slimer-icon.png",
+		"rdj": "http://icons.iconarchive.com/icons/sirea/happy-tree-friends/16/Petunie-icon.png",
+		"subscriber": null,
+		"other": null
+	},
+	"emotes": {
+		"freshprincedance": "https://edm-spot.github.io/emotes/freshprincedance.gif",
+		"rooHey": "https://edm-spot.github.io/emotes/rooHey.png",
+		"roohi": "https://edm-spot.github.io/emotes/roohi.gif",
+		"otterhey": "https://edm-spot.github.io/emotes/OtterHey.png"
+	}
+}
